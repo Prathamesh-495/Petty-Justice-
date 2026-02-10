@@ -1,0 +1,7 @@
+{
+  "name": "PettyJustice: Judge Grudge's Court",
+  "description": "Duniya ka sabse chhota court! Submit your petty grievances and let Judge Grudge pass unhinged verdicts in Hinglish. Insaaf hoga, aur thoda mazaak bhi.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
